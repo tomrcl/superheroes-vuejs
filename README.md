@@ -19,3 +19,7 @@ yarn run build
 ```
 yarn run lint
 ```
+
+### codesandbox
+
+https://codesandbox.io/s/github/tomrcl/superheroes-vuejs
